@@ -4,7 +4,7 @@
   Oi, eu sou o Gabriel.<br> 
   Formado em  <strong>Educação Física e Engenharia de Controle e Automação</strong>.<br>
   Sou professor de educação física em uma escola pública e no meio tempo, realizei algumas pós-graduações na área da engenharia.<br>
-  Agora estou cursando  <strong>FULL STACK WEB DEVELOPER</strong> na <a href="https://www.growdev.com.br" Growdev></a>
+  Agora estou cursando  <strong>FULL STACK WEB DEVELOPER</strong> na <a href="https://www.growdev.com.br" alt="Growdev"></a>
 </p>
 
 <p align="left">
