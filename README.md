@@ -10,6 +10,26 @@
 <p align="left">
   :ab: Linguagens: <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width=7%/> <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" width=6.4% /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width=7.5%/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width=10% /> :hourglass_flowing_sand:
 
+<p align="left">
+ 
+- Hobbies: <br>
+  Gosto de assistir séries, ouvir música, jogar vídeo-game e ficar com meus cachorros.
+- Formação: <br>
+  Engenharia de Controle e Automação (Anhanguera - 2018)<br>
+  Educação Física (UFMS - 2013) <br>
+- Experiências profissionais: <br>
+  Professor de Educação Física efetivo na rede municipal de educação de Campo Grande-MS; (2018-atualmente) <br>
+  Agente Censitário Supervisior - IBGE (2017-2018) <br>
+  Treinador de Futsal na Rede Municipal -SEMED (2017) <br>
+  Treinador de Atletismo na Rede Municipal - SEMED (2016) <br>
+  
+  
+- Linguagem de Programação favorita:<br>
+  Conhecendo e aprendendo para então poder definir ;)
+  
+- O que está estudando atualmente:<br>
+  HTML e CSS na Growdev
+
 </p>
 
 <p align="left">
