@@ -15,8 +15,11 @@
 - Hobbies: <br>
   Gosto de assistir séries, ouvir música, jogar vídeo-game e ficar com meus cachorros.
 - Formação: <br>
-  Engenharia de Controle e Automação (Anhanguera - 2018)<br>
-  Educação Física (UFMS - 2013) <br>
+  Pós-Graduação em Engenharia de Segurança do Trabalho - 2022 <br>
+  Pós-Graduação em Engenharia Clínica - 2021 <br>
+  Pós-Graduação em Gestão Hospitalar - 2021 <br>
+  Engenharia de Controle e Automação - 2018<br>
+  Educação Física - 2013<br>
 - Experiências profissionais: <br>
   Professor de Educação Física efetivo na rede municipal de educação de Campo Grande-MS; (2018-atualmente) <br>
   Agente Censitário Supervisior - IBGE (2017-2018) <br>
