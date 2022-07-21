@@ -21,8 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="mailtocamargogabriel1992@gmail.com">mailtocamargogabriel1992@gmail.com< alt="Gmail"> 
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailtocamargogabriel1992@gmail.com" /></a>
+  <a href="mailto:camargogabriel1992@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width=6.5% /></a>
 
   <a href="https://www.linkedin.com/in/gabriel-camargo-53031373/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-camargo-53031373/" /></a>
