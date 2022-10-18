@@ -31,7 +31,7 @@
   Conhecendo e aprendendo para então poder definir ;)
   
 - O que está estudando atualmente:<br>
-  HTML e CSS na Growdev
+  JavaScript, TypeScript e React
 
 </p>
 
